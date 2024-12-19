@@ -15,7 +15,7 @@
 (env
  (_
   (flags
-   (:standard -w -9-30))))
+   (:standard -w -9-30-53))))
 
 (executables
  (names moon0_main)

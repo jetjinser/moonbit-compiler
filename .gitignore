@@ -1,2 +1,4 @@
 _build
 moonbit-lang.install
+
+.direnv/
