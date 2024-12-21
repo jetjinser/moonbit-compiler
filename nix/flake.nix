@@ -20,6 +20,7 @@
               dune_3
               dune-release
               ocaml-lsp
+              ocamlformat
             ];
             buildInputs = with ocamlPackages; [ ];
           };
