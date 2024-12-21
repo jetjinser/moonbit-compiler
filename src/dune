@@ -17,16 +17,9 @@
   (flags
    (:standard -w -9-30-53))))
 
-; (executables
-;  (names moon0_main)
-;  (public_names moonc)
-;  (foreign_stubs
-;   (language c)
-;   (names hash)))
-
-(library
- (name moonbit_lib)
- (public_name moonbit-lang)
+(executables
+ (names moon0_main)
+ (public_names moonc)
  (foreign_stubs
   (language c)
   (names hash)))

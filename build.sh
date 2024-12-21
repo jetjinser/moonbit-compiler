@@ -1,0 +1,1 @@
+dune exec moonc build-package -- ../moonbit-demo/main/main.mbt -is-main -o main.core -target wasm-gc -std-path /nix/store/lprd1vjwnmyl6v3zdg0a74pc51lmb3n6-bundledCore/lib/target/wasm-gc/release/bundle
